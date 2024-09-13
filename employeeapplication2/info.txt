@@ -1,0 +1,2 @@
+Employee Application with sort and duplicate ID detector
+Made by Segn Lee Birot Buslon from BSIT - IS 2A
